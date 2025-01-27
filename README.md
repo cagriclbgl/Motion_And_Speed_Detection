@@ -27,8 +27,13 @@ To run this project locally, you'll need Python and the required libraries. Foll
 - OpenCV
 - Tkinter (Usually comes with Python, but can be installed if missing)
 
-### Installation Steps
+Future Improvements
+Accuracy Enhancement: Integrating deep learning methods for more accurate motion detection and speed estimation.
+Advanced Object Detection: Implementing detection for specific objects or people.
+Performance Optimization: Optimizing the system to work efficiently with high-resolution videos.
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
+Acknowledgments
+-OpenCV Documentation
+-Tkinter Documentation
+
+
